@@ -16,7 +16,7 @@
 # pip install futures
 
 
-# git clone https://github.com/MN4WN1-777/fbnew
+# git clone https://github.com/MN4WN1-777/FBNEW
 
 
 # cd fbnew

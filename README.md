@@ -25,4 +25,4 @@
 # git pull
 
 
-# python fbneww.py
+# python fbnew.py

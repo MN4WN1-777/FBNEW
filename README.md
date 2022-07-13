@@ -16,10 +16,13 @@
 # pip install futures
 
 
+# pip install rich
+
+
 # git clone https://github.com/MN4WN1-777/FBNEW
 
 
-# cd fbnew
+# cd FBNEW
 
 
 # git pull
